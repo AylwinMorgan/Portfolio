@@ -1,0 +1,43 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: "Aylwin Morgan's Portfolio"
+theme: 'zen'
+
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+rssLimit: 20
+pagination:
+  pagerSize: 10
+  path: page
+
+params:
+  logoWidth: 64
+  logoHeight: 64
+
+languages:
+  en:
+    weight: 1
+    languageName: "English"
+    languageCode: "en-GB"
+    contentDir: content
+    menu:
+      main:
+        - Name: "Home"
+          weight: -10
+          pageRef: "/"
+        - Name: "Blog"
+          weight: 2
+          pageRef: "/blog/"
+        - Name: "About Me"
+          weight: 4
+          pageRef: "/intro/"
+        - Name: "Projects"
+          weight: 6
+          pageRef: "/projects/"
+        - Name: "Resume"
+          weight: 8
+          pageRef: "/resume/"
+        - Name: "Contact"
+          weight: 10
+          pageRef: "/contact/"
