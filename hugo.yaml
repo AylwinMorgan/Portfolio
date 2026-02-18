@@ -29,9 +29,6 @@ languages:
         - Name: "Blog"
           weight: 2
           pageRef: "/blog/"
-        - Name: "About Me"
-          weight: 4
-          pageRef: "/intro/"
         - Name: "Projects"
           weight: 6
           pageRef: "/projects/"
