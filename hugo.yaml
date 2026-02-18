@@ -38,6 +38,3 @@ languages:
         - Name: "Resume"
           weight: 8
           pageRef: "/resume/"
-        - Name: "Contact"
-          weight: 10
-          pageRef: "/contact/"

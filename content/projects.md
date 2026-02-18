@@ -10,7 +10,7 @@ title = 'Projects'
 Insert centerpiece project here
 
 ## Wave Function Collapse Demo
-
+{{< figure src="/images/WFC.jpg" alt="Result of WFC project">}}
 Insert WFC project here
 
 ## Goal Oriented Action Programming Demo
