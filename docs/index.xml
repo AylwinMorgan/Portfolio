@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aylwin Morgan&#39;s Portfolio</title>
+    <link>https://aylwinmorgan.github.io/Portfolio/</link>
+    <description>Recent content on Aylwin Morgan&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 27 Jan 2026 11:07:30 -0500</lastBuildDate>
+      <atom:link href="https://aylwinmorgan.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://aylwinmorgan.github.io/Portfolio/blog/</link>
+      <pubDate>Fri, 23 Jan 2026 11:45:44 -0500</pubDate>
+      <guid>https://aylwinmorgan.github.io/Portfolio/blog/</guid>
+      <description>&lt;p&gt;Blog posts will go here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;intro-to-my-centerpiece-project&#34;&gt;Intro to my centerpiece project&lt;/h2&gt;&#xA;&lt;p&gt;2/18/2026&lt;br&gt;&#xA;Hello and welcome to my blog. I will likely use this a space to organize my&#xA;thoughts surrounding the development of my centerpiece project since I have many more&#xA;thoughts than can be appropriately displayed on the Projects page.&lt;/p&gt;&#xA;&lt;p&gt;As you may know, the project is a game that combines the genres of top-down shooter with&#xA;roguelike deckbuilder. Many of my favorite games have been one of these two genres and&#xA;because of this many of the ideas that I have had for this project have been attempts to&#xA;bridge those two genres of game. I was especially inspired by titles such as &lt;em&gt;Slay The Spire&lt;/em&gt;,&#xA;&lt;em&gt;Nuclear Throne&lt;/em&gt;, and &lt;em&gt;Noita&lt;/em&gt;. In this project, which I still do not yet have a proper title for,&#xA;the typical turn based gameplay of a deckbuilder is gone and cards instead must be played in real time.&#xA;This requires the player to think strategically about building the deck itself but also to act fast when&#xA;the time comes to actually use the deck. Cards that the player can use could be basic attacks like a&#xA;melee swipe or a barrage of projectiles. They also could be more complex which I hope will lead to&#xA;a deeper level of strategy in the game. Some ideas that I have had for more complex cards are cards&#xA;that allow you to summon help and cards which allow you to set traps for the enemy.&lt;/p&gt;&#xA;&lt;p&gt;The gameplay loop of the game is straightforward: the player will fight enemies in a room,&#xA;the player will add a card to their deck, the player will fight more enemies for the possibiliy of more cards,&#xA;the player would fight a challenging bossfight and then move on to the next area to repeat this process. On top of the deckbuilding mechanics I plan on eventually adding a system of items which would have a&#xA;range of passive effects to synergize with the cards. These would be hard to come by and inventory space would be&#xA;limited to force the player to think about which items to take.&lt;/p&gt;&#xA;&lt;p&gt;I have several ideas for how I would want this game to look and sound like but I think that that is best saved for another blogpost.&lt;/p&gt;&#xA;&lt;p&gt;Until next time,&lt;br&gt;&#xA;&amp;ndash;Aylwin&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://aylwinmorgan.github.io/Portfolio/projects/</link>
+      <pubDate>Fri, 23 Jan 2026 11:45:13 -0500</pubDate>
+      <guid>https://aylwinmorgan.github.io/Portfolio/projects/</guid>
+      <description>&lt;h1 id=&#34;projects-will-be-linked-here&#34;&gt;Projects will be linked here&lt;/h1&gt;&#xA;&lt;h2 id=&#34;portfolio-centerpiece-project&#34;&gt;Portfolio Centerpiece Project&lt;/h2&gt;&#xA;&lt;p&gt;Insert footage of centerpiece project&lt;/p&gt;&#xA;&lt;p&gt;This is a personal project of mine which I have been working on to demonstrate my AI and gameplay programming abilities. The game plays as a top-down 2D shooter with deckbuilding mechanics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wave-function-collapse-demo&#34;&gt;Wave Function Collapse Demo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://aylwinmorgan.github.io/Portfolio/images/WFC.png&#34; alt=&#34;Result of WFC project&#34;&gt;&#xA;As a part of my Game AI class I created this project. Using a wave function collapse algorithm, a 2D map is generated using a set of rules based tiles.&lt;/p&gt;&#xA;&lt;h2 id=&#34;goal-oriented-action-programming-demo&#34;&gt;Goal Oriented Action Programming Demo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://aylwinmorgan.github.io/Portfolio/images/GOAP.gif&#34; alt=&#34;GOAP project in action&#34;&gt;&#xA;This is a project I created in my Game AI class to demonstrate an application of GOAP. The AI agent will plan a list actions needed to kill the player when determining how to act.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://aylwinmorgan.github.io/Portfolio/resume/</link>
+      <pubDate>Fri, 23 Jan 2026 11:23:16 -0500</pubDate>
+      <guid>https://aylwinmorgan.github.io/Portfolio/resume/</guid>
+      <description>&lt;p&gt;Contact me via email: &lt;a href=&#34;mailto:aylwinmorgan@gmail.com&#34;&gt;aylwinmorgan@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Skills:&#xA;C++, Python, Unity, Unreal Engine,&lt;br&gt;&#xA;GameMaker, OpenGL, Mathematics, Game AI&lt;/p&gt;&#xA;&lt;p&gt;Education:&#xA;Champlain College, Burlington, VT. Class of May 2026&lt;br&gt;&#xA;Bachelor of Science Degree in Game Programming&lt;br&gt;&#xA;Minor in Mathematics&lt;br&gt;&#xA;2022-2026&lt;br&gt;&#xA;GPA: 3.94, Trustee&amp;rsquo;s List&lt;/p&gt;&#xA;&lt;p&gt;Relevant Coursework:&lt;/p&gt;&#xA;&lt;p&gt;Advanced Game AI.&lt;br&gt;&#xA;Created advanced algorithms to be used by intelligent AI agents.&#xA;Experienced making algorithms on a fast paced shooter game and a strategic algorithm capable of playing chess.&lt;/p&gt;&#xA;&lt;p&gt;Intermediate Graphics Programming.&lt;br&gt;&#xA;Learned about the graphics pipeline. Created various graphical effects using OpenGL.&lt;/p&gt;&#xA;&lt;p&gt;Game Studio II &amp;amp; Game Studio Capstone.&lt;br&gt;&#xA;Worked on an interdisciplinary team to create a video game over the course of a semester.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Intro</title>
+      <link>https://aylwinmorgan.github.io/Portfolio/intro/</link>
+      <pubDate>Fri, 23 Jan 2026 11:23:07 -0500</pubDate>
+      <guid>https://aylwinmorgan.github.io/Portfolio/intro/</guid>
+      <description>&lt;p&gt;Welcome to my portfolio. My name is Aylwin Morgan and I am a game programmer. Insert more detailed intro here.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Hello World!</title>
+      <link>https://aylwinmorgan.github.io/Portfolio/helloworld/</link>
+      <pubDate>Fri, 23 Jan 2026 10:50:27 -0500</pubDate>
+      <guid>https://aylwinmorgan.github.io/Portfolio/helloworld/</guid>
+      <description>&lt;p&gt;Test. Hello World!!!!&lt;/p&gt;&#xA;</description>
+    </item>
+  </channel>
+</rss>
