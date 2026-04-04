@@ -3,13 +3,14 @@ date = '2026-01-23T11:23:16-05:00'
 title = 'Resume'
 +++
 
-Contact me via email: aylwinmorgan@gmail.com
+Contact me via email: aylwinmorgan@gmail.com  
+My Itch page: https://rusted-watch.itch.io/
 
-Skills:
+## Skills:
 C++, Python, Unity, Unreal Engine,  
 GameMaker, OpenGL, Mathematics, Game AI
 
-Education:
+## Education:
 Champlain College, Burlington, VT. Class of May 2026  
 Bachelor of Science Degree in Game Programming  
 Minor in Mathematics  

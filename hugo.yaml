@@ -26,12 +26,16 @@ languages:
         - Name: "Home"
           weight: -10
           pageRef: "/"
-        - Name: "Blog"
-          weight: 2
-          pageRef: "/blog/"
         - Name: "Projects"
           weight: 6
           pageRef: "/projects/"
         - Name: "Resume"
           weight: 8
           pageRef: "/resume/"
+        - Name: "Blog"
+          weight: 12
+          pageRef: "/blog/"
+      projects:
+        - Name: "Lab escape"
+          weight: -10
+          pageRef: "/projects/centerpiece/"
