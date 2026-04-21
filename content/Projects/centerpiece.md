@@ -1,11 +1,13 @@
 ---
-title: Centerpiece game
+title: Homunculus Escape
 date: '2026-04-03T11:45:13-05:00'
 ---
-This is my centerpiece project for my portfolio which I am currently calling Homunculus Story as a placeholder title. Bear in mind that this game is still in development and the footage on this page will reflect that fact.
-
-![Game title screen](/Portfolio/images/labescapetitle.png)
+![Game title screen](/Portfolio/images/homunculus.gif)
+<!--more-->
 *Placeholder title screen*
+
+
+This is my centerpiece project for my portfolio which I am currently calling Homunculus Story as a placeholder title. Bear in mind that this game is still in development and the footage on this page will reflect that fact.
 
 This is a personal project of mine which I have been working on to demonstrate my AI and gameplay programming abilities. The game plays as a top-down 2D shooter with deckbuilding mechanics.
 

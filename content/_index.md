@@ -8,4 +8,4 @@ Welcome to my portfolio! I am Aylwin Morgan, a student of Game Programming at Ch
 When I'm not programming, I enjoy reading books and writing stories. 
 As I work on my projects I will continue to update this site with information about them.
 
-![Picture of me](/Portfolio/images/portrait.jpg)
+![Picture of me](/Portfolio/images/portrait1.jpg)
