@@ -2,18 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Aylwin Morgan&#39;s Portfolio</title>
-    <link>https://aylwinmorgan.github.io/Portfolio/projects/</link>
+    <link>http://localhost:1313/Portfolio/projects/</link>
     <description>Recent content in Projects on Aylwin Morgan&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Fri, 23 Jan 2026 11:45:13 -0500</lastBuildDate>
-      <atom:link href="https://aylwinmorgan.github.io/Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Centerpiece game</title>
-      <link>https://aylwinmorgan.github.io/Portfolio/projects/centerpiece/</link>
+      <link>http://localhost:1313/Portfolio/projects/centerpiece/</link>
       <pubDate>Fri, 03 Apr 2026 11:45:13 -0500</pubDate>
-      <guid>https://aylwinmorgan.github.io/Portfolio/projects/centerpiece/</guid>
-      <description>&lt;p&gt;This is my centerpiece project for my portfolio which I am currently calling Homunculus Story as a placeholder title. Bear in mind that this game is still in development and the footage on this page will reflect that fact.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://aylwinmorgan.github.io/Portfolio/images/labescapetitle.png&#34; alt=&#34;Game title screen&#34;&gt;&#xA;&lt;em&gt;Placeholder title screen&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is a personal project of mine which I have been working on to demonstrate my AI and gameplay programming abilities. The game plays as a top-down 2D shooter with deckbuilding mechanics.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://aylwinmorgan.github.io/Portfolio/images/labescapelevelup.png&#34; alt=&#34;Adding cards to deck&#34;&gt;&#xA;&lt;em&gt;The player can add cards to their deck between rooms&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;After exploring through some semi-randomly generated rooms, the player finds themselves in a more difficult boss fight before they can leave the area and progress in the game.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://aylwinmorgan.github.io/Portfolio/images/labescapeenemies.png&#34; alt=&#34;Normal room&#34;&gt;&#xA;&lt;em&gt;A normal, semi-random room. Layout is predetermined but enemies are random&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://aylwinmorgan.github.io/Portfolio/images/labescapebossfight.png&#34; alt=&#34;Boss fight&#34;&gt;&#xA;&lt;em&gt;The boss is currently the end of the game, it will cause chunks of the ceiling to fall on the player&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+      <guid>http://localhost:1313/Portfolio/projects/centerpiece/</guid>
+      <description>&lt;p&gt;This is my centerpiece project for my portfolio which I am currently calling Homunculus Story as a placeholder title. Bear in mind that this game is still in development and the footage on this page will reflect that fact.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/images/labescapetitle.png&#34; alt=&#34;Game title screen&#34;&gt;&#xA;&lt;em&gt;Placeholder title screen&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is a personal project of mine which I have been working on to demonstrate my AI and gameplay programming abilities. The game plays as a top-down 2D shooter with deckbuilding mechanics.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/images/labescapelevelup.png&#34; alt=&#34;Adding cards to deck&#34;&gt;&#xA;&lt;em&gt;The player can add cards to their deck between rooms&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;After exploring through some semi-randomly generated rooms, the player finds themselves in a more difficult boss fight before they can leave the area and progress in the game.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/images/labescapeenemies.png&#34; alt=&#34;Normal room&#34;&gt;&#xA;&lt;em&gt;A normal, semi-random room. Layout is predetermined but enemies are random&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/images/labescapebossfight.png&#34; alt=&#34;Boss fight&#34;&gt;&#xA;&lt;em&gt;The boss is currently the end of the game, it will cause chunks of the ceiling to fall on the player&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Goal Oriented Action Planning</title>
+      <link>http://localhost:1313/Portfolio/projects/goap/</link>
+      <pubDate>Fri, 03 Apr 2026 11:45:13 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/projects/goap/</guid>
+      <description>&lt;h2 id=&#34;goal-oriented-action-planning-demo&#34;&gt;Goal Oriented Action Planning Demo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/images/GOAP.gif&#34; alt=&#34;GOAP project in action&#34;&gt;&#xA;This is a project I created in my Game AI class to demonstrate an application of GOAP. The AI agent will plan a list actions needed to kill the player when determining how to act.&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Raetian War</title>
+      <link>http://localhost:1313/Portfolio/projects/raetianwar/</link>
+      <pubDate>Fri, 03 Apr 2026 11:45:13 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/projects/raetianwar/</guid>
+      <description>&lt;h2 id=&#34;raetian-war&#34;&gt;Raetian War&lt;/h2&gt;&#xA;&lt;p&gt;This is a personal project. It is the first few levels of a tactical strategy game. I made this game primarily to show off my ability to create strategic AI enemies.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/images/raetia1.png&#34; alt=&#34;Character turn with movement visualizer&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Enemies will use the terrain in the levels to their advantage, seeking out defensive locations to fire at the player from.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/images/raetia2.png&#34; alt=&#34;Enemy unit mid attack standing in a trench tile&#34;&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Super Amoeba Wizard</title>
+      <link>http://localhost:1313/Portfolio/projects/amoebawizard/</link>
+      <pubDate>Fri, 03 Apr 2026 11:45:13 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/projects/amoebawizard/</guid>
+      <description>&lt;h2 id=&#34;super-amoeba-wizard&#34;&gt;Super Amoeba Wizard&lt;/h2&gt;&#xA;&lt;p&gt;This is a project that I created in 4 days for the 2024 GMTK game jam. It is a basic top down action game with a variety of AI enemies, each with a unique simple behavior.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/images/amoeba.png&#34; alt=&#34;Gameplay footage&#34;&gt;&lt;/p&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>WFC</title>
+      <link>http://localhost:1313/Portfolio/projects/wfc/</link>
+      <pubDate>Fri, 03 Apr 2026 11:45:13 -0500</pubDate>
+      <guid>http://localhost:1313/Portfolio/projects/wfc/</guid>
+      <description>&lt;h2 id=&#34;wave-function-collapse-demo&#34;&gt;Wave Function Collapse Demo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/Portfolio/images/WFC.png&#34; alt=&#34;Result of WFC project&#34;&gt;&#xA;As a part of my Game AI class I created this project. Using a wave function collapse algorithm, a 2D map is generated using a set of rules based tiles.&lt;/p&gt;&#xA;</description>
     </item>
   </channel>
 </rss>
