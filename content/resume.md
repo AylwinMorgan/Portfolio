@@ -7,3 +7,4 @@ title = 'Resume'
 
 Contact me via email: aylwinmorgan@gmail.com  
 My Itch page: https://rusted-watch.itch.io/
+LinkedIn: linkedin.com/in/aylwin-morgan-7a0a31251/
